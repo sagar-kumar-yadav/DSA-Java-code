@@ -4,8 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class ArrayList1 {
-    public ArrayList1() {
-    }
+
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

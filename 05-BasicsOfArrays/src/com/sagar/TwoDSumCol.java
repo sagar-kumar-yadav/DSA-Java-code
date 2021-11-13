@@ -3,8 +3,6 @@ package com.sagar;
 import java.util.Scanner;
 
 public class TwoDSumCol {
-    public TwoDSumCol() {
-    }
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

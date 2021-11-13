@@ -3,8 +3,6 @@ package com.sagar;
 import java.util.Arrays;
 
 public class Swap {
-    public Swap() {
-    }
 
     public static void main(String[] args) {
         int[] arr = new int[]{1, 3, 23, 9, 18, 56};
