@@ -2,23 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/00-Loops/00-Loops.iml" filepath="$PROJECT_DIR$/00-Loops/00-Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Functions_Or_Methods/01-Functions_Or_Methods.iml" filepath="$PROJECT_DIR$/01-Functions_Or_Methods/01-Functions_Or_Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Basics_Of_Java/03-Basics_Of_Java.iml" filepath="$PROJECT_DIR$/03-Basics_Of_Java/03-Basics_Of_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Patterns/04-Patterns.iml" filepath="$PROJECT_DIR$/04-Patterns/04-Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07Linear_Search/07Linear_Search.iml" filepath="$PROJECT_DIR$/07Linear_Search/07Linear_Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-Binary_Search/09-Binary_Search.iml" filepath="$PROJECT_DIR$/09-Binary_Search/09-Binary_Search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-String/11-String.iml" filepath="$PROJECT_DIR$/11-String/11-String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-Bit_Manipulation/13-Bit_Manipulation.iml" filepath="$PROJECT_DIR$/13-Bit_Manipulation/13-Bit_Manipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19-Hashing/19-Hashing.iml" filepath="$PROJECT_DIR$/19-Hashing/19-Hashing.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Basics_Of_Java/Basics_Of_Java.iml" filepath="$PROJECT_DIR$/Basics_Of_Java/Basics_Of_Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Binary_Search/Binary_Search.iml" filepath="$PROJECT_DIR$/Binary_Search/Binary_Search.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Bit_Manipulation/Bit_Manipulation.iml" filepath="$PROJECT_DIR$/Bit_Manipulation/Bit_Manipulation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Function/Function.iml" filepath="$PROJECT_DIR$/Function/Function.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Hashing/Hashing.iml" filepath="$PROJECT_DIR$/Hashing/Hashing.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_Collections_Framework/Java_Collections_Framework.iml" filepath="$PROJECT_DIR$/Java_Collections_Framework/Java_Collections_Framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetCode-Solution/LeetCode-Solution.iml" filepath="$PROJECT_DIR$/LeetCode-Solution/LeetCode-Solution.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Linear_Search/Linear_Search.iml" filepath="$PROJECT_DIR$/Linear_Search/Linear_Search.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Loops/Loops.iml" filepath="$PROJECT_DIR$/Loops/Loops.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Patterns/Patterns.iml" filepath="$PROJECT_DIR$/Patterns/Patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patterns_Using_Recursion/Patterns_Using_Recursion.iml" filepath="$PROJECT_DIR$/Patterns_Using_Recursion/Patterns_Using_Recursion.iml" />
-      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
       <module fileurl="file://$PROJECT_DIR$/Two_Pointer/Two_Pointer.iml" filepath="$PROJECT_DIR$/Two_Pointer/Two_Pointer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/methods/methods.iml" filepath="$PROJECT_DIR$/methods/methods.iml" />
-      <module fileurl="file://$PROJECT_DIR$/prac/prac.iml" filepath="$PROJECT_DIR$/prac/prac.iml" />
     </modules>
   </component>
 </project>
