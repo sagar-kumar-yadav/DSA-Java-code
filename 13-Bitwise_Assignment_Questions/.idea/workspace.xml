@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d71dbda9-d7f6-4b28-b8df-281aa8ea45c5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11-String/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../10-String/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11-String/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../10-String/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11-String/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../10-String/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11-String/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../10-String/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11-String/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../10-String/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11-String/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../10-String/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11-String/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../10-String/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11-String/11-String.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../10-String/10-String.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11-String/src/sagar/CheckPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/../10-String/src/sagar/CheckPassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13-Bit_Manipulation/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../12-Bit_Manipulation/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13-Bit_Manipulation/.idea/description.html" beforeDir="false" afterPath="$PROJECT_DIR$/../12-Bit_Manipulation/.idea/description.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13-Bit_Manipulation/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../12-Bit_Manipulation/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13-Bit_Manipulation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../12-Bit_Manipulation/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13-Bit_Manipulation/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../12-Bit_Manipulation/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13-Bit_Manipulation/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../12-Bit_Manipulation/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13-Bit_Manipulation/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../12-Bit_Manipulation/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13-Bit_Manipulation/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../12-Bit_Manipulation/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13-Bit_Manipulation/13-Bit_Manipulation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../12-Bit_Manipulation/12-Bit_Manipulation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13-Bit_Manipulation/src/sagar/ConvertAtoB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../12-Bit_Manipulation/src/sagar/ConvertAtoB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13-Bit_Manipulation/src/sagar/FindUnique.java" beforeDir="false" afterPath="$PROJECT_DIR$/../12-Bit_Manipulation/src/sagar/FindUnique.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="216KQ4aGpc3p1SiAmAExeKmwLQN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.sagar.Main" />
+      <module name="13-Bitwise_Assignment_Questions" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d71dbda9-d7f6-4b28-b8df-281aa8ea45c5" name="Changes" comment="" />
+      <created>1637256080846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637256080846</updated>
+    </task>
+    <servers />
+  </component>
+</project>
