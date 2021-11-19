@@ -9,9 +9,10 @@ public class Find_Smallest_Letter_Greater_Than_Target {
         char target = 'f';
         System.out.print(nextGreatestLetter(letters, target));
     }
+
     public static char nextGreatestLetter(char[] letters, char target) {
 
-       /*
+        /*
         // brute force
         for (int i = 0; i < letters.length; i++) {
             if (letters[i] > target){
@@ -25,12 +26,19 @@ public class Find_Smallest_Letter_Greater_Than_Target {
         int start = 0;
         int end = letters.length-1;
 
-        while (start <= end){
-            int mid = start + (end - start)/2;
+        while (start <= end) {
+            int mid = start + (end - start) / 2;
 
-            if (letters[mid]==target){
-                
+            if (letters[mid] <= target){
+                start++;
+            }
+            else {
+                end--;
             }
         }
+        if (start == letters.length){
+            return letters[0];
+        }
+        return letters[start];
     }
 }
