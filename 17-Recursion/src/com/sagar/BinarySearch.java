@@ -7,6 +7,7 @@ public class BinarySearch {
         System.out.println(search(arr,target,0, arr.length-1));
     }
     static int search(int[] arr, int target, int start, int end){
+        // base condition
         if (start > end){
             return -1;
         }
