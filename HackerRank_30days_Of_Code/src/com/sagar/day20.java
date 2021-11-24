@@ -1,7 +1,7 @@
 package com.sagar;
 
 // https://www.hackerrank.com/challenges/30-sorting/problem?isFullScreen=true
-// sorting
+// Day 20: Sorting
 
 import java.util.Arrays;
 import java.util.Scanner;

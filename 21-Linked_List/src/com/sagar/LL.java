@@ -1,9 +1,14 @@
 package com.sagar;
 
 public class LL {
-    // create node
     Node head;
+    private int size;
 
+    LL(){
+        this.size = 0;
+    }
+
+    // create node
     class Node {
         String data;
         Node next;
@@ -11,6 +16,7 @@ public class LL {
         Node(String data){
             this.data = data;
             this.next = null;
+            size++;
         }
     }
 
@@ -60,6 +66,7 @@ public class LL {
             System.out.println("the list is empty");
             return;
         }
+        size--;
         head = head.next;
     }
 
@@ -69,6 +76,7 @@ public class LL {
             System.out.println("the list is empty");
             return;
         }
+        size--;
         if (head.next == null){
             head = null;
             return;
@@ -82,6 +90,11 @@ public class LL {
         }
 
         secondLast.next = null;
+    }
+
+    // list size
+    public int getSize(){
+        return size;
     }
 
     public static void main(String[] args) {
@@ -101,6 +114,10 @@ public class LL {
 
         list.deleteLast();
         list.printList();
+
+        System.out.println(list.getSize());
+        list.insertFirst("this");
+        System.out.println(list.getSize());
 
     }
 }
