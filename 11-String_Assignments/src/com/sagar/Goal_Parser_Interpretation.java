@@ -1,5 +1,8 @@
 package com.sagar;
 
+// https://leetcode.com/problems/goal-parser-interpretation/
+// 1678. Goal Parser Interpretation
+
 public class Goal_Parser_Interpretation {
     public static void main(String[] args) {
         String command = "G()(al)";
