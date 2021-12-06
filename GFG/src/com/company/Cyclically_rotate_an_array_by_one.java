@@ -13,15 +13,15 @@ public class Cyclically_rotate_an_array_by_one {
     }
 
     private static void rotate(int[] arr, int n) {
-        int[] ans = new int[n];
         for (int i = 0; i < n; i++) {
-            swap(arr, i, n);
+            swap(arr, i, n-1);
         }
+        System.out.println(Arrays.toString(arr));
     }
 
     private static void swap(int[] arr, int i, int n) {
         int temp = arr[i];
-        arr[i] = n;
-        n = temp;
+        arr[i] = arr[n];
+        arr[n] = temp;
     }
 }
