@@ -1,4 +1,4 @@
-package com.company;
+package com.company.String;
 
 // https://practice.geeksforgeeks.org/problems/sum-of-numbers-in-string-1587115621/1
 // Sum of numbers in string

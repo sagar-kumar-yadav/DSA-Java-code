@@ -1,5 +1,4 @@
-package com.company;
-
+package com.company.String;
 // https://practice.geeksforgeeks.org/problems/convert-a-list-of-characters-into-a-string5142/1/?problemStatus=unsolved&difficulty[]=-2&page=1&category[]=Strings&query=problemStatusunsolveddifficulty[]-2page1category[]Strings
 // Convert a list of characters into a String
 

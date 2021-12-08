@@ -1,5 +1,4 @@
-package com.company;
-
+package com.company.String;
 // https://practice.geeksforgeeks.org/problems/remove-characters-from-alphanumeric-string0648/1/?category[]=Strings&category[]=Strings&problemStatus=unsolved&difficulty[]=-2&page=1&query=category[]StringsproblemStatusunsolveddifficulty[]-2page1category[]Strings
 // Remove characters from alphanumeric string
 

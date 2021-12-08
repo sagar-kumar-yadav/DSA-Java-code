@@ -1,4 +1,4 @@
-package com.company;
+package com.company.String;
 
 // https://practice.geeksforgeeks.org/problems/find-the-camel3348/1/?category[]=Strings&category[]=Strings&problemStatus=unsolved&difficulty[]=-2&page=1&query=category[]StringsproblemStatusunsolveddifficulty[]-2page1category[]Strings
 // Count of camel case characters
