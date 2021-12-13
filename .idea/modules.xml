@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/00-Loops/00-Loops.iml" filepath="$PROJECT_DIR$/00-Loops/00-Loops.iml" />
-      <module fileurl="file://$PROJECT_DIR$/01-Functions_Or_Methods/01-Functions_Or_Methods.iml" filepath="$PROJECT_DIR$/01-Functions_Or_Methods/01-Functions_Or_Methods.iml" />
-      <module fileurl="file://$PROJECT_DIR$/03-Basics_Of_Java/03-Basics_Of_Java.iml" filepath="$PROJECT_DIR$/03-Basics_Of_Java/03-Basics_Of_Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/04-Patterns/04-Patterns.iml" filepath="$PROJECT_DIR$/04-Patterns/04-Patterns.iml" />
-      <module fileurl="file://$PROJECT_DIR$/07Linear_Search/07Linear_Search.iml" filepath="$PROJECT_DIR$/07Linear_Search/07Linear_Search.iml" />
-      <module fileurl="file://$PROJECT_DIR$/08-Binary_Search/08-Binary_Search.iml" filepath="$PROJECT_DIR$/08-Binary_Search/08-Binary_Search.iml" />
-      <module fileurl="file://$PROJECT_DIR$/10-String/10-String.iml" filepath="$PROJECT_DIR$/10-String/10-String.iml" />
-      <module fileurl="file://$PROJECT_DIR$/12-Bit_Manipulation/12-Bit_Manipulation.iml" filepath="$PROJECT_DIR$/12-Bit_Manipulation/12-Bit_Manipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/00-Basics_Of_Java/00-Basics_Of_Java.iml" filepath="$PROJECT_DIR$/00-Basics_Of_Java/00-Basics_Of_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01-Patterns/01-Patterns.iml" filepath="$PROJECT_DIR$/01-Patterns/01-Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Searching/03-Searching.iml" filepath="$PROJECT_DIR$/03-Searching/03-Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-String/04-String.iml" filepath="$PROJECT_DIR$/04-String/04-String.iml" />
       <module fileurl="file://$PROJECT_DIR$/19-Hashing/19-Hashing.iml" filepath="$PROJECT_DIR$/19-Hashing/19-Hashing.iml" />
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />

@@ -53,9 +53,7 @@ public class Smallest_Number_repeating_K_Times {
     }
 */
 
-/*
-        // store element in hashmap     tc = O(N), sc = O(N)
-
+        // store element in hashmap                                         tc = O(N), sc = O(N)
         HashMap<Integer, Integer> hm = new HashMap<Integer, Integer>();
 
         for (int i = 0; i < N; i ++) {
@@ -84,7 +82,8 @@ public class Smallest_Number_repeating_K_Times {
         return -1;
     }
 
-*/
+
+/*
         // better approach
         int max = 10000;
         int[] count = new int[10000];
@@ -103,4 +102,5 @@ public class Smallest_Number_repeating_K_Times {
         }
         return -1;
     }
+*/
 }
