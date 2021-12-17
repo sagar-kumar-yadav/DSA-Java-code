@@ -1,4 +1,4 @@
-package com.sagar.recursion;
+package com.recursion;
 
 // https://practice.geeksforgeeks.org/problems/number-of-paths0926/1
 // Number of paths

@@ -1,27 +1,21 @@
-package com.sagar;
+package com.sagar.linkedlist;
 
-public class LL {
-    Node head;
-    private int size;
-
-    LL(){
-        this.size = 0;
-    }
-
+public class LL1 {
     // create node
+    Node head;
+
     class Node {
-        String data;
+        int data;
         Node next;
 
-        Node(String data){
+        Node(int data){
             this.data = data;
             this.next = null;
-            size++;
         }
     }
 
-    // insert first
-    public void insertFirst(String data){
+    //insert first
+    public void insertFirst(int data){
         Node newNode = new Node(data);
         if (head == null){
             head = newNode;
@@ -31,8 +25,8 @@ public class LL {
         head = newNode;
     }
 
-    // insert last
-    public void insertLast(String data){
+    //insert last
+    public void insertLast(int data){
         Node newNode = new Node(data);
         if (head == null){
             head = newNode;
@@ -43,10 +37,9 @@ public class LL {
             currNode = currNode.next;
         }
         currNode.next = newNode;
-
     }
 
-    // print
+    //print
     public void printList(){
         if (head == null){
             System.out.println("list is empty");
@@ -57,67 +50,40 @@ public class LL {
             System.out.print(currNode.data+" --> ");
             currNode = currNode.next;
         }
-        System.out.println("NULL");
+        System.out.println("Null");
     }
 
     //delete first
     public void deleteFirst(){
         if (head == null){
-            System.out.println("the list is empty");
+            System.out.println("list is empty");
             return;
         }
-        size--;
         head = head.next;
     }
 
     //delete last
     public void deleteLast(){
         if (head == null){
-            System.out.println("the list is empty");
+            System.out.println("list is empty");
             return;
         }
-        size--;
         if (head.next == null){
             head = null;
             return;
         }
-
         Node secondLast = head;
-        Node lastNode = head.next;
-        while (lastNode.next != null){
-            lastNode = lastNode.next;
-            secondLast = secondLast.next;
-        }
 
-        secondLast.next = null;
-    }
-
-    // list size
-    public int getSize(){
-        return size;
     }
 
     public static void main(String[] args) {
-        LL list = new LL();
-        list.insertFirst("a");
-        list.insertFirst("is");
-        list.printList();
-
-        list.insertLast("list");
-        list.printList();
-
-        list.insertFirst("this");
+        LL1 list = new LL1();
+        list.insertFirst(3);
+        list.insertFirst(4);
+        list.insertLast(8);
         list.printList();
 
         list.deleteFirst();
         list.printList();
-
-        list.deleteLast();
-        list.printList();
-
-        System.out.println(list.getSize());
-        list.insertFirst("this");
-        System.out.println(list.getSize());
-
     }
 }

@@ -1,4 +1,4 @@
-package com.sagar;
+package com.sagar.linkedlist;
 
 public class Reverse_LL {
 
