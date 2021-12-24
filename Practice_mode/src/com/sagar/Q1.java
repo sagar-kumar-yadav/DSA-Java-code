@@ -10,6 +10,7 @@ public class Q1 {
                 break;
             }
             System.out.println(loop) ;
+
         }
     }
 }
