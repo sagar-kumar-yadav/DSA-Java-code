@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Scanner;
 
-public class day0 {
+public class day0_Mean_Median_and_Mode {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int tc = sc.nextInt();
@@ -21,22 +21,34 @@ public class day0 {
         System.out.println(mode(arr));
     }
 
-    private static double mode(int[] arr) {
+    private static int mode(int[] arr) {
         Arrays.sort(arr);
         HashMap<Integer, Integer> hm = new HashMap<>();
 
-        int x = 1;
+        int c = 0;
         for (int i = 0; i < arr.length; i++) {
-            hm.put(arr[i], x);
 
+            if (hm.get(arr[i]) == null) {
+                hm.put(arr[i], 1);
+            }
+            else {
+                c = hm.get(arr[i]);
+                c++;
+                hm.put(arr[i], c);
+                return arr[i];
+            }
         }
+        return arr[0];
     }
 
     private static double median(int[] arr) {
         Arrays.sort(arr);
-        double m1 = arr.length/2;
-        double m2 = arr.length/2 + 1;
-        double ans = (m1 + m2) / 2;
+
+        double ans = 0;
+        for (int i = 1; i <= arr.length; i++) {
+            int mid = arr.length/2;
+            ans = ((double) arr[mid] + (double) arr[mid - 1]) / 2;
+        }
         return ans;
     }
 
