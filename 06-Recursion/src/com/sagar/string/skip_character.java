@@ -3,9 +3,9 @@ package com.sagar.string;
 public class skip_character {
     public static void main(String[] args) {
         String str = "baccad";       // output :- bccd
-        System.out.println(skip(str));
+//        System.out.println(skip(str));
 
-        skip1("", "baccdah");
+//        skip1("", "baccad");
 
         System.out.println(skip2(str));
     }
@@ -40,18 +40,18 @@ public class skip_character {
     }
 
     // using recursion - 2
-    public static String skip2(String str){
-        if (str.isEmpty()){
+    public static String skip2(String up){
+        if (up.isEmpty()){
             return "";
         }
 
-        char ch = str.charAt(0);
+        char ch = up.charAt(0);
 
         if (ch == 'a') {
-            return skip2(str.substring(1));
+            return skip2(up.substring(1));
         }
         else {
-            return ch + skip2(str.substring(1));
+            return ch + skip2(up.substring(1));
         }
     }
 }
