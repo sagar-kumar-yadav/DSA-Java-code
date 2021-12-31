@@ -1,4 +1,4 @@
-package com.String;
+package com.String.Basic;
 
 import java.util.HashMap;
 import java.util.HashSet;

@@ -1,4 +1,4 @@
-package com.String;
+package com.String.Basic;
 // https://practice.geeksforgeeks.org/problems/print-first-letter-of-every-word-in-the-string3632/1/?category[]=Strings&category[]=Strings&problemStatus=unsolved&difficulty[]=-1&page=1&query=category[]StringsproblemStatusunsolveddifficulty[]-1page1category[]Strings
 // Print first letter of every word in the string
 

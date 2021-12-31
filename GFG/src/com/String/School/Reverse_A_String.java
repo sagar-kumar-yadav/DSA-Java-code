@@ -1,4 +1,4 @@
-package com.String;
+package com.String.School;
 
 // https://practice.geeksforgeeks.org/problems/java-reverse-a-string0416/1/?category[]=Strings&category[]=Strings&page=1&query=category[]Stringspage1category[]Strings
 // Reverse a String

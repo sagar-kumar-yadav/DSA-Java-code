@@ -1,4 +1,4 @@
-package com.String;
+package com.String.Basic;
 
 // https://practice.geeksforgeeks.org/problems/change-the-string3541/1/?category[]=Strings&category[]=Strings&problemStatus=unsolved&difficulty[]=-1&page=1&query=category[]StringsproblemStatusunsolveddifficulty[]-1page1category[]Strings
 // Change the string

@@ -1,4 +1,4 @@
-package com.String;
+package com.String.medium;
 
 // https://practice.geeksforgeeks.org/problems/case-specific-sorting-of-strings4845/1/?category[]=Strings&category[]=Strings&problemStatus=unsolved&page=1&query=category[]StringsproblemStatusunsolvedpage1category[]Strings
 // Case-specific Sorting of Strings

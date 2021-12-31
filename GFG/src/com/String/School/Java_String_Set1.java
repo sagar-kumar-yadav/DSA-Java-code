@@ -1,4 +1,4 @@
-package com.String;
+package com.String.School;
 // https://practice.geeksforgeeks.org/problems/java-strings-set-15112/1/?category[]=Strings&category[]=Strings&difficulty[]=-2&page=1&query=category[]Stringsdifficulty[]-2page1category[]Strings
 // Java Strings | Set 1
 

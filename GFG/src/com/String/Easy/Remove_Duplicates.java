@@ -1,4 +1,4 @@
-package com.String;
+package com.String.Easy;
 // https://practice.geeksforgeeks.org/problems/remove-duplicates3034/1/?category[]=Strings&category[]=Strings&problemStatus=unsolved&difficulty[]=0&page=1&query=category[]StringsproblemStatusunsolveddifficulty[]0page1category[]Strings
 // Remove Duplicates
 
