@@ -8,7 +8,17 @@ class Upper_case_conversion
     }
     public static String transform(String s)
     {
-        // code here
+        // code - 1
+        String[] arr = s.split(" ");
+
+        StringBuilder sb = new StringBuilder();
+
+        for (int i = 0; i < arr.length; i++) {
+            sb.append(Character.toUpperCase(arr[i].charAt(0)));
+            sb.append(arr[i].substring(1)).append(" ");
+        }
+        return sb.toString().trim();
+
 
     }
 }
