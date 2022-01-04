@@ -5,15 +5,15 @@ import java.util.Arrays;
 
 public class SubSeq {
     public static void main(String[] args) {
-//        subSeq("", "abc");
+        subSeq("", "abc");
 //
 //        ArrayList<String> ans = subSeqRet("", "abc");
 //        System.out.println(ans);
 
 //        subsAscii("", "abc");
 
-        ArrayList<String> ans = subsAsciiRet("", "abc");
-        System.out.println(ans);
+//        ArrayList<String> ans = subsAsciiRet("", "abc");
+//        System.out.println(ans);
 
     }
     public static void subSeq(String p, String up) {        // p :- process, up:- unprocessed
