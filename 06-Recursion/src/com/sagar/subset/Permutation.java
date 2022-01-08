@@ -4,12 +4,20 @@ import java.util.ArrayList;
 
 public class Permutation {
     public static void main(String[] args) {
-        permutation("", "abc");
+//        permutation("", "abc");
+
+//        cba
+//        bca
+//        bac
+//        cab
+//        acb
+//        abc
+
 
 //        ArrayList<String> ans = permutationsList("", "abc");
-//        System.out.println(ans);
+//        System.out.println(ans);    // [cba, bca, bac, cab, acb, abc]
 
-//        System.out.println(permutationCount("", "abcd"));
+        System.out.println(permutationCount("", "abcd")); // 24
     }
 
     public static void permutation(String p, String up){

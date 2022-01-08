@@ -6,8 +6,19 @@ public class PhonePad {
     public static void main(String[] args) {
 //        phonePad("", "12");
 
-        System.out.println(phonePadRet("", "12"));
-        System.out.println(phonePadCount("", "12"));
+//        ad
+//                ae
+//        af
+//                bd
+//        be
+//                bf
+//        cd
+//                ce
+//        cf
+
+//        System.out.println(phonePadRet("", "12"));  // [ad, ae, af, bd, be, bf, cd, ce, cf]
+
+        System.out.println(phonePadCount("", "12")); // 9
     }
 
     public static void phonePad(String p, String up) {

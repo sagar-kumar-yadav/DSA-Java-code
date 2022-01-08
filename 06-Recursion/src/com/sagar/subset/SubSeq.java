@@ -5,15 +5,25 @@ import java.util.Arrays;
 
 public class SubSeq {
     public static void main(String[] args) {
-        subSeq("", "abc");
-//
+//        subSeq("", "abc");
+
+//        abc
+//                ab
+//        ac
+//                a
+//        bc
+//                b
+//        c
+
+
 //        ArrayList<String> ans = subSeqRet("", "abc");
-//        System.out.println(ans);
+//        System.out.println(ans);  // [abc, ab, ac, a, bc, b, c, ]
 
 //        subsAscii("", "abc");
 
-//        ArrayList<String> ans = subsAsciiRet("", "abc");
-//        System.out.println(ans);
+        ArrayList<String> ans = subsAsciiRet("", "abc");
+        System.out.println(ans);
+        // [abc, ab, ab99, ac, a, a99, a98c, a98, a9899, bc, b, b99, c, , 99, 98c, 98, 9899, 97bc, 97b, 97b99, 97c, 97, 9799, 9798c, 9798, 979899]
 
     }
     public static void subSeq(String p, String up) {        // p :- process, up:- unprocessed

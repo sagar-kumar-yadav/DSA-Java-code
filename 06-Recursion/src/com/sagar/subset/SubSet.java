@@ -6,20 +6,36 @@ import java.util.List;
 
 public class SubSet {
     public static void main(String[] args) {
-//        int[] arr = {1, 2, 3};
+        int[] arr = {1, 2, 3};
 
-//        List<List<Integer>> ans = subSet(arr);
-//        for (int i = 0; i < ans.size(); i++) {
-//            List<Integer> list = ans.get(i);
+        List<List<Integer>> ans = subSet(arr);
+        for (int i = 0; i < ans.size(); i++) {
+            List<Integer> list = ans.get(i);
+            System.out.println(list);
+        }
+//[]
+//[1]
+//[2]
+//[1, 2]
+//[3]
+//[1, 3]
+//[2, 3]
+//[1, 2, 3]
+
+//        int[] arr = {1, 2, 2};
+//        List<List<Integer>> ans1 = subSetDuplicate(arr);
+//        for (int i = 0; i < ans1.size(); i++) {
+//            List<Integer> list = ans1.get(i);
 //            System.out.println(list);
 //        }
 
-        int[] arr = {1, 2, 2};
-        List<List<Integer>> ans1 = subSetDuplicate(arr);
-        for (int i = 0; i < ans1.size(); i++) {
-            List<Integer> list = ans1.get(i);
-            System.out.println(list);
-        }
+//  []
+//  [1]
+//  [2]
+//  [1, 2]
+//  [2, 2]
+//  [1, 2, 2]
+
     }
 
     public static List<List<Integer>> subSet(int[] arr) {

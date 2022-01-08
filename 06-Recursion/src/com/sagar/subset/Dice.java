@@ -5,8 +5,29 @@ import java.util.ArrayList;
 public class Dice {
     public static void main(String[] args) {
 //        dice("", 4);
-//        System.out.println(diceRet("", 4));
-        diceFace("", 4, 6);
+
+//        1111
+//        112
+//        121
+//        13
+//        211
+//        22
+//        31
+//        4
+
+//        System.out.println(diceRet("", 4));   // out - [1111, 112, 121, 13, 211, 22, 31, 4]
+
+//        diceFace("", 4, 6);
+
+//        1111
+//        112
+//        121
+//        13
+//        211
+//        22
+//        31
+//        4
+
     }
 
     private static void dice(String p, int up) {
