@@ -6,20 +6,26 @@ import java.util.Arrays;
 public class Find {
     public static void main(String[] args) {
 //        int[] arr = {2, 3, 1, 4, 5};
-//        System.out.println(find(arr, 5, 0));
-//        System.out.println(findIndex(arr,5,0));
-//        System.out.println(findIndexLast(arr,5,arr.length-1));
+//        System.out.println(find(arr, 5, 0));  // ture
+
+//        System.out.println(findIndex(arr,5,0));       // 4
+
+//        System.out.println(findIndexLast(arr,5,arr.length-1));    // 4
+
 
         int[] arr = {2, 3, 4, 5, 4, 4};
-        findAllIndex(arr, 4, 0);
-        System.out.println(list);
+//        findAllIndex(arr, 4, 0);
+//        System.out.println(list);               // [2, 4, 5]
 
-        ArrayList<Integer> ans = findAllIndex1(arr, 4, 0, new ArrayList<>());
-        System.out.println(ans);
+
+//        ArrayList<Integer> ans = findAllIndex1(arr, 4, 0, new ArrayList<>());
+//        System.out.println(ans);                // [2, 4, 5]
 
         ArrayList<Integer> ans1 = findAllIndex2(arr, 4, 0);
-        System.out.println(ans1);
+        System.out.println(ans1);                   // [2, 4, 5]
     }
+
+
     public static boolean find(int[] arr, int target, int index) {
         if (index == arr.length) {
             return false;

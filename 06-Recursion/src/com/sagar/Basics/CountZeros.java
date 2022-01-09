@@ -15,7 +15,7 @@ public class CountZeros {
             return count;
         }
         int rem = n % 10;
-        if (rem == 1){
+        if (rem == 0){
             return helper(n/10, count+1);
         }
         return helper(n/10, count);
