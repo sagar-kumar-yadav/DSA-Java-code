@@ -56,6 +56,21 @@ public class LL {
         size++;
     }
 
+    // insert using recursion
+    public void insertRec(int val, int index) {
+        head = insertRec(val, index, head);
+    }
+    private Node insertRec(int val, int index, Node node) {
+        if (index == 0) {
+            Node temp = new Node(val, node);
+            size++;
+            return temp;
+        }
+
+        node.next = insertRec(val, index-1, node.next);
+        return node;
+    }
+
     // delete first node
     public int deleteFirst() {
         int value = head.value;
@@ -143,11 +158,30 @@ public class LL {
             this.next = next;
         }
     }
+
+    // Questions
+    // remove duplicate in sorted LL
+    public void duplicates() {
+        Node node = head;
+
+        while (node.next != null) {
+            if (node.value == node.next.value) {
+                node.next = node.next.next;
+                size--;
+            }
+            else {
+                node = node.next;
+            }
+        }
+        tail = node;
+        tail.next = null;
+    }
 }
 
 class Main {
     public static void main(String[] args) {
-//        LL list = new LL();
+        LL list = new LL();
+
 //        list.insertFirst(3);
 //        list.insertFirst(13);
 //        list.insertFirst(34);
@@ -165,13 +199,45 @@ class Main {
 //
 //        System.out.println(list.delete(2));
 //        list.display();
+//
+//        list.insertRec(88, 2);
+//        list.display();
 
-        DLL list = new DLL();
-        list.insertFirst(3);
+
+        list.insertFirst(1);
+        list.insertFirst(1);
         list.insertFirst(2);
-        list.insertFirst(8);
-        list.insertFirst(7);
+        list.insertFirst(3);
+        list.insertFirst(3);
 
         list.display();
+        list.duplicates();
+        list.display();
+
+        // doubly linked list
+//        DLL list = new DLL();
+//        list.insertFirst(3);
+//        list.insertFirst(2);
+//        list.insertFirst(8);
+//        list.insertFirst(7);
+//
+//        list.insertLast(99);
+//
+//        list.insert(8, 65);
+//
+//        list.display();
+
+
+        // circular linked list
+//        CLL list = new CLL();
+//        list.insert(23);
+//        list.insert(3);
+//        list.insert(19);
+//        list.insert(67);
+//        list.display();
+//
+//        list.delete(19);
+//
+//        list.display();
     }
 }
