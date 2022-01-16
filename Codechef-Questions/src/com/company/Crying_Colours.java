@@ -11,16 +11,23 @@ public class Crying_Colours {
 
         while (tc-- > 0) {
 
-            int x = sc.nextInt();
-            int[] red = new int[3];
-            int[] green = new int[3];
-            int[] blue = new int[3];
+            int n = sc.nextInt();
 
+            int[][] arr = new int[3][3];
             for (int i = 0; i < 3; i++) {
-                red[i] = sc.nextInt();
-                green[i] = sc.nextInt();
-                blue[i] = sc.nextInt();
+                arr[i][0] = sc.nextInt();
+                arr[i][1] = sc.nextInt();
+                arr[i][2] = sc.nextInt();
             }
+            int ans = 0;
+            if (arr[0][0] == n && arr[1][1] == n & arr[2][2] == n) {
+                System.out.println(ans);
+                continue;
+            }
+            int a = arr[1][0] + arr[2][0] + arr[2][1];
+            int b = arr[0][1] + arr[0][2] + arr[1][2];
+            int max = Math.max(a, b);
+            System.out.println(max);
         }
     }
 }
