@@ -29,7 +29,7 @@ public class AllPath {
             return;
         }
 
-        // iam considering this block in my path
+        // i am considering this block in my path
         maze[row][col] = false;
 
         if (row < maze.length - 1) {
