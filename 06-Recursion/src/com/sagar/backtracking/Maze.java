@@ -4,9 +4,9 @@ import java.util.ArrayList;
 
 public class Maze {
     public static void main(String[] args) {
-//        System.out.println(count(3, 3));
+//        System.out.println(count(3, 3));          // out = 6
 
-//        path("", 3, 3);
+//        path("", 3, 3);  // DDRR DRDR DRRD RDDR RDRD RRDD
 
 //        System.out.println(pathRet("", 3, 3));
 
@@ -36,7 +36,7 @@ public class Maze {
     // find path
     public static void path(String p, int row, int col) {
         // base condition
-        if (row == 1 & col == 1) {
+        if (row == 1 && col == 1) {
             System.out.println(p);
             return;
         }
