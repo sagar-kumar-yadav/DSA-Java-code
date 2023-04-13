@@ -5,8 +5,11 @@ package com.Must_Do_Coding_Questions;
 
 public class Missing_Number_In_Array {
     public static void main(String[] args) {
-        int n = 2;
-        int[] array = {1};
+//        int n = 2;
+//        int[] array = {1};
+
+        int n = 5;
+        int[] array = {1, 2, 3, 4};
         System.out.println(MissingNumber(array, n));
     }
 

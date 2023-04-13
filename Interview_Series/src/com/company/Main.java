@@ -17,9 +17,8 @@ public class Main {
         int n = sc.nextInt();
         int[] arr = new int[n];
         for (int i = 0; i < n; i++) {
-            arr[n] = sc.nextInt();
+            arr[i] = sc.nextInt();
         }
-        iq.peakElement(n, arr);
-        System.out.println();
+        System.out.println(iq.peakElement(n, arr));
     }
 }

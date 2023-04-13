@@ -2,6 +2,7 @@ package com.BinarySearch;
 
 // https://www.geeksforgeeks.org/count-number-of-occurrences-or-frequency-in-a-sorted-array/
 // Q. Count number of occurrences (or frequency) in a sorted array
+
 public class Count_Number_Of_Occurrences {
     public static void main(String[] args) {
         int[] arr = {5, 7, 7, 7, 8, 8, 10};
@@ -12,6 +13,7 @@ public class Count_Number_Of_Occurrences {
         int count = (last - first + 1);
         System.out.println(count);
     }
+
     static int findFirstOccurrence(int[] arr, int target){
         int start = 0;
         int end = arr.length-1;

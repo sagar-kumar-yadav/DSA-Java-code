@@ -1,14 +1,16 @@
 package com.Assignment;
 
+// Take 2 numbers as inputs and find their HCF and LCM.
+
 import java.util.Scanner;
 
 public class HCF_and_LCM {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 
-        System.out.print("enter first number here: ");
+        System.out.print("enter first number here: ");      // 15
         int num1 = in.nextInt();
-        System.out.print("enter second number here: ");
+        System.out.print("enter second number here: ");     // 65
         int num2 = in.nextInt();
 
         int n1 = num1;

@@ -41,7 +41,21 @@ public class interviewQuestions {
     }
 
     // Solution - 2
+    // Native approach
     public int peakElement(int n, int[] arr) {
-        int start
+        //
+        if (arr.length == 1) {
+            return -1;
+        }
+
+        int index = 0;
+        for (int i = 0; i < arr.length; i++) {
+            for (int j = 0; j < arr.length; j++) {
+                if (arr[i] < arr[j]) {
+                    index = j;
+                }
+            }
+        }
+        return index;
     }
 }

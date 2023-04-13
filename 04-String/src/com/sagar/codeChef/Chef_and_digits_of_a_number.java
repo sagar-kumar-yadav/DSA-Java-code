@@ -5,7 +5,7 @@ import java.lang.*;
 import java.io.*;
 
 /* Name of the class has to be "Main" only if the class is public. */
-class Codechef
+class Chef_and_digits_of_a_number
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
@@ -23,7 +23,7 @@ class Codechef
 	    int ones = 0;
 	    
 	    for (int i=0; i<s1.length(); i++) {
-	        if (s1.charAt() == '0'){
+	        if (s1.charAt(i) == '0'){
 	            zeros++;
 	        } 
 	        else {

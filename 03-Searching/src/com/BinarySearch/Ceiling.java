@@ -2,11 +2,12 @@ package com.BinarySearch;
 
 // https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/
 // Q. ceiling in a sorted array
+
 public class Ceiling {
     public static void main(String[] args) {
         int[] arr = {2, 3, 5, 9, 14, 16, 18};
         int target = 17;
-        System.out.println(ceiling(arr, target)); // output = 6;
+        System.out.println(ceiling(arr, target));       // output = 6;
     }
     static int ceiling(int[] arr, int target){
 

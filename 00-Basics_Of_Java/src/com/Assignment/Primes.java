@@ -11,9 +11,11 @@ public class Primes {
     }
 
     static boolean isPrime(int n) {
+        // if number is 1 return false
         if (n <= 1) {
             return false;
         }
+
         int c = 2;
         while (c * c <= n) {
             if (n % c == 0) {

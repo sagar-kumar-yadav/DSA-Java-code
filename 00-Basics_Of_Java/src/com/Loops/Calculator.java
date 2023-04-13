@@ -6,17 +6,16 @@ import java.util.SortedMap;
 public class Calculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
         // take input from user till user does not press X or x
         int ans = 0;
         while (true){
             // take the operator as input
-            System.out.println("Enter the Operator: ");
+            System.out.print("Enter the Operator: ");
             char op = sc.next().trim().charAt(0);
+
 
             if (op == '+' || op == '-' || op == '*' || op == '/' || op == '%'){
                 // input two numbers
-
                 System.out.println("Enter two numbers: ");
                 int num1 = sc.nextInt();
                 int num2 = sc.nextInt();

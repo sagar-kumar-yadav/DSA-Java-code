@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Check_If_The_Sentence_Is_Pangram {
     public static void main(String[] args) {
-        String sentence = "thequickbrownfoxjumpsoverthelazydog";
+        String sentence = "thequickbrownfoxjumpsoverthelazydo";
         System.out.println(checkIfPangram(sentence));
     }
     public static boolean checkIfPangram(String sentence){

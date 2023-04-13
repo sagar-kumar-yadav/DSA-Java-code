@@ -11,7 +11,10 @@ public class CycleSort {
     static void sort(int[] arr){
         int i = 0;
         while (i < arr.length){
+            // check weather this is correct index is not
             int correct = arr[i]-1;
+
+            // check weather this correct index is equal to 'i' or not if it is not equal swap
             if (arr[correct] != arr[i]){
                 swap(arr, i, correct);
             }

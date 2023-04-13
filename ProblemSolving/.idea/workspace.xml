@@ -1,11 +1,184 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7432c5f8-13db-4683-b812-c86dd5950041" name="Changes" comment="" />
+    <list default="true" id="7432c5f8-13db-4683-b812-c86dd5950041" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../05-Sorting/src/com/sagar/assignment/cyclicsort/Find_All_Duplicates_in_an_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-Sorting/src/com/sagar/assignment/cyclicsort/Find_All_Numbers_Disappeared_in_an_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-Sorting/src/com/sagar/assignment/cyclicsort/Find_the_Duplicate_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../05-Sorting/src/com/sagar/assignment/cyclicsort/missing_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG/src/com/Arrays/Easy/Reorganize_The_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG/src/com/Arrays/Minimum_Distance_Between_Two_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG/src/com/Arrays/Reverse_array_in_groups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG/src/com/Arrays/School/Find_Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG/src/com/Arrays/School/Palindromic_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GFG/src/com/Arrays/School/Perfect_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Must-Do-Coading-Questions/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Must-Do-Coading-Questions/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Must-Do-Coading-Questions/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Must-Do-Coading-Questions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Must-Do-Coading-Questions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Must-Do-Coading-Questions/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Must-Do-Coading-Questions/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Must-Do-Coading-Questions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Must-Do-Coading-Questions/Must-Do-Coading-Questions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Must-Do-Coading-Questions/src/com/company/Add_two_fractions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Must-Do-Coading-Questions/src/com/company/Armstrong_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Must-Do-Coading-Questions/src/com/company/Binary_Number_To_Decimal_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Must-Do-Coading-Questions/src/com/company/Closest_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Must-Do-Coading-Questions/src/com/company/GCD_of_two_numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Must-Do-Coading-Questions/src/com/company/Jumping_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Must-Do-Coading-Questions/src/com/company/LCM_And_GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Must-Do-Coading-Questions/src/com/company/Print_the_Kth_Digit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Must-Do-Coading-Questions/src/com/company/Reverse_Digits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Must-Do-Coading-Questions/src/com/company/Series_Ap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Must-Do-Coading-Questions/src/com/company/Series_GP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Must-Do-Coading-Questions/src/com/company/Sum_of_Digit_is_Pallindrome_or_not.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Must-Do-Coading-Questions/src/com/company/hhhhh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/Codechef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/GfG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrepInsta/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrepInsta/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrepInsta/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrepInsta/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrepInsta/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrepInsta/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrepInsta/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrepInsta/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrepInsta/PrepInsta.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrepInsta/src/com/company/PrimeNumber_In_a_given_range.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCS_CodeVita/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCS_CodeVita/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCS_CodeVita/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCS_CodeVita/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCS_CodeVita/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCS_CodeVita/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCS_CodeVita/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCS_CodeVita/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCS_CodeVita/TCS_CodeVita.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCS_CodeVita/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../placement/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../placement/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../placement/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../placement/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../placement/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../placement/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../placement/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../placement/placement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../placement/src/com/company/Compute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../placement/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Must-Do-Coading-Questions/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00-Basics_Of_Java/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00-Basics_Of_Java/src/com/Assignment/HCF_and_LCM.java" beforeDir="false" afterPath="$PROJECT_DIR$/../00-Basics_Of_Java/src/com/Assignment/HCF_and_LCM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00-Basics_Of_Java/src/com/Assignment/armstrong_num.java" beforeDir="false" afterPath="$PROJECT_DIR$/../00-Basics_Of_Java/src/com/Assignment/armstrong_num.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00-Basics_Of_Java/src/com/Assignment/leap_year.java" beforeDir="false" afterPath="$PROJECT_DIR$/../00-Basics_Of_Java/src/com/Assignment/leap_year.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00-Basics_Of_Java/src/com/Assignment/multiplication_table.java" beforeDir="false" afterPath="$PROJECT_DIR$/../00-Basics_Of_Java/src/com/Assignment/multiplication_table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00-Basics_Of_Java/src/com/Assignment/sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../00-Basics_Of_Java/src/com/Assignment/sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00-Basics_Of_Java/src/com/Loops/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../00-Basics_Of_Java/src/com/Loops/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00-Basics_Of_Java/src/com/Loops/CaseCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../00-Basics_Of_Java/src/com/Loops/CaseCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00-Basics_Of_Java/src/com/Loops/CountNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../00-Basics_Of_Java/src/com/Loops/CountNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00-Basics_Of_Java/src/com/Loops/Fib.java" beforeDir="false" afterPath="$PROJECT_DIR$/../00-Basics_Of_Java/src/com/Loops/Fib.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../00-Basics_Of_Java/src/com/Loops/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../00-Basics_Of_Java/src/com/Loops/Reverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-BasicsOfArrays/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-BasicsOfArrays/src/com/assignment/Build_Array_From_Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02-BasicsOfArrays/src/com/assignment/Build_Array_From_Permutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-BasicsOfArrays/src/com/assignment/Check_If_The_Sentence_Is_Pangram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02-BasicsOfArrays/src/com/assignment/Check_If_The_Sentence_Is_Pangram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-BasicsOfArrays/src/com/sagar/ArrayList1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02-BasicsOfArrays/src/com/sagar/ArrayList1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-BasicsOfArrays/src/com/sagar/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/../02-BasicsOfArrays/src/com/sagar/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Searching/src/com/BinarySearch/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03-Searching/src/com/BinarySearch/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Searching/src/com/BinarySearch/Ceiling.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03-Searching/src/com/BinarySearch/Ceiling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-Searching/src/com/BinarySearch/Count_Number_Of_Occurrences.java" beforeDir="false" afterPath="$PROJECT_DIR$/../03-Searching/src/com/BinarySearch/Count_Number_Of_Occurrences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-String/src/com/sagar/assignment/GfG.java" beforeDir="false" afterPath="$PROJECT_DIR$/../04-String/src/com/sagar/assignment/GfG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-String/src/com/sagar/assignment/InfitQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/../04-String/src/com/sagar/assignment/InfitQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-String/src/com/sagar/assignment/LeetCode13.java" beforeDir="false" afterPath="$PROJECT_DIR$/../04-String/src/com/sagar/assignment/LeetCode13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-String/src/com/sagar/assignment/LeetCode1768.java" beforeDir="false" afterPath="$PROJECT_DIR$/../04-String/src/com/sagar/assignment/LeetCode1768.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-String/src/com/sagar/assignment/LeetCode1784.java" beforeDir="false" afterPath="$PROJECT_DIR$/../04-String/src/com/sagar/assignment/LeetCode1784.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-String/src/com/sagar/assignment/LeetCode2000.java" beforeDir="false" afterPath="$PROJECT_DIR$/../04-String/src/com/sagar/assignment/LeetCode2000.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-String/src/com/sagar/codeChef/Chef_and_digits_of_a_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/../04-String/src/com/sagar/codeChef/Chef_and_digits_of_a_number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-String/src/com/sagar/codeChef/Chef_and_the_Wildcard_Matching.java" beforeDir="false" afterPath="$PROJECT_DIR$/../04-String/src/com/sagar/codeChef/Chef_and_the_Wildcard_Matching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../04-String/src/com/sagar/codeChef/Snake_Procession.java" beforeDir="false" afterPath="$PROJECT_DIR$/../04-String/src/com/sagar/codeChef/Snake_Procession.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-Sorting/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PrepInsta/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-Sorting/src/com/sagar/sorting/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../05-Sorting/src/com/sagar/sorting/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05-Sorting/src/com/sagar/sorting/CycleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../05-Sorting/src/com/sagar/sorting/CycleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-Recursion/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../06-Recursion/src/com/sagar/Basics/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/../06-Recursion/src/com/sagar/Basics/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-Linked_List/src/com/sagar/gfg/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../07-Linked_List/src/com/sagar/gfg/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-Linked_List/src/com/sagar/leetcode/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../07-Linked_List/src/com/sagar/leetcode/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-Linked_List/src/com/sagar/leetcode/_1290_.java" beforeDir="false" afterPath="$PROJECT_DIR$/../07-Linked_List/src/com/sagar/leetcode/_1290_.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../07-Linked_List/src/com/sagar/linkedlist/LL.java" beforeDir="false" afterPath="$PROJECT_DIR$/../07-Linked_List/src/com/sagar/linkedlist/LL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Codechef-Questions/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Codechef-Questions/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Codechef-Questions/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TCS_CodeVita/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG/src/com/Arrays/company/Binary_Array_Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GFG/src/com/Arrays/Binary_Array_Sorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG/src/com/Arrays/company/Count_the_Zeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GFG/src/com/Arrays/Count_the_Zeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG/src/com/Arrays/company/Cyclically_rotate_an_array_by_one.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GFG/src/com/Arrays/Cyclically_rotate_an_array_by_one.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG/src/com/Arrays/company/Find_Transition_Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GFG/src/com/Arrays/Find_Transition_Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG/src/com/Arrays/company/From_num_div_by3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GFG/src/com/Arrays/From_num_div_by3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG/src/com/Arrays/company/Game_with_nos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GFG/src/com/Arrays/Game_with_nos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG/src/com/Arrays/company/Half_N_by_M.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GFG/src/com/Arrays/Half_N_by_M.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG/src/com/Arrays/company/Java_1d_and_2d_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GFG/src/com/Arrays/Java_1d_and_2d_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG/src/com/Arrays/company/Largest_Element_In_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GFG/src/com/Arrays/Largest_Element_In_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG/src/com/Arrays/company/Minimum_Distance_Between_Two_Numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG/src/com/Arrays/company/Multiply_Left_And_Right_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GFG/src/com/Arrays/Multiply_Left_And_Right_Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG/src/com/Arrays/company/Number_Of_Occur.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GFG/src/com/Arrays/Number_Of_Occur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG/src/com/Arrays/company/Play_With_OR.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GFG/src/com/Arrays/Play_With_OR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG/src/com/Arrays/company/Product_of_max_in_first_array_and_min_in_second.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GFG/src/com/Arrays/Product_of_max_in_first_array_and_min_in_second.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG/src/com/Arrays/company/Rotate_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GFG/src/com/Arrays/Rotate_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG/src/com/Arrays/company/Segregate_0s_and_1s.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GFG/src/com/Arrays/Segregate_0s_and_1s.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG/src/com/Arrays/company/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GFG/src/com/Arrays/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG/src/com/Arrays/company/Total_Count.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GFG/src/com/Arrays/Total_Count.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG/src/com/Arrays/company/Triplets_With_Sum_With_given_range.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GFG/src/com/Arrays/Triplets_With_Sum_With_given_range.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG/src/com/Arrays/company/Wave_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GFG/src/com/Arrays/Wave_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG/src/com/Arrays/company/index_of_first_one_in_a_sorted_arr_of_zeros_and_ones.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GFG/src/com/Arrays/index_of_first_one_in_a_sorted_arr_of_zeros_and_ones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG/src/com/Arrays/company/replace_all_zeros_with_five.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GFG/src/com/Arrays/replace_all_zeros_with_five.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG/src/com/Arrays/company/reverse_an_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GFG/src/com/Arrays/reverse_an_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG/src/com/Hashing/Find_Triplets_With_Zero_Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GFG/src/com/Hashing/Find_Triplets_With_Zero_Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GFG/src/com/Must_Do_Coding_Questions/Missing_Number_In_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GFG/src/com/Must_Do_Coding_Questions/Missing_Number_In_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank_Problem_Solving/src/com/company/oneweekprepration/Diagonal_Difference.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerRank_Problem_Solving/src/com/company/oneweekprepration/Diagonal_Difference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HackerRank_Problem_Solving/src/com/company/oneweekprepration/Lonely_Integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HackerRank_Problem_Solving/src/com/company/oneweekprepration/Lonely_Integer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_Series/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Interview_Series/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interview_Series/src/com/company/interviewQuestions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Interview_Series/src/com/company/interviewQuestions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode-Solution/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode-Solution/src/sagar/_374_.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode-Solution/src/sagar/_374_.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode-Solution/src/sagar/spiral_matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode-Solution/src/sagar/spiral_matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode-Solution/src/sagar/sqrt.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode-Solution/src/sagar/sqrt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_mode/src/QQ1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_mode/src/QQ1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/Remove_Adjacent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/Remove_Adjacent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/check_palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/check_palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/kkp/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/kkp/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/kkp/kkkkk.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/kkp/kkkkk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/pattern/Half_Pyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/pattern/Half_Pyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/pattern/Half_Pyramid_With_Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/pattern/Half_Pyramid_With_Numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/pattern/inverted_half_pyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/pattern/inverted_half_pyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/pattern/inverted_half_pyramid_rotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/pattern/inverted_half_pyramid_rotate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/pattern/inverted_half_pyramid_with_numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/pattern/inverted_half_pyramid_with_numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/pattern/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/pattern/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/q4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/q4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/q7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/q7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/qqq.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Practice_mode/src/com/sagar/qqq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrepInsta/src/com/company/PrimeNumber_In_a_given_range_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PrepInsta/src/com/company/PrimeNumber_In_a_given_range_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PrepInsta/src/com/company/PrimeNumber_In_a_given_range_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PrepInsta/src/com/company/PrimeNumber_In_a_given_range_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCS_CodeVita/src/com/company/Efficient_Prime_Factor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TCS_CodeVita/src/com/company/Efficient_Prime_Factor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCS_CodeVita/src/com/company/Modular_Exponentiation_for_large_numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TCS_CodeVita/src/com/company/Modular_Exponentiation_for_large_numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCS_CodeVita/src/com/company/PrimeFactor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TCS_CodeVita/src/com/company/PrimeFactor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCS_CodeVita/src/com/company/Prime_Factorization_using_Sieve__for_multiple_queries.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TCS_CodeVita/src/com/company/Prime_Factorization_using_Sieve__for_multiple_queries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCS_CodeVita/src/com/company/Print_Primes_In_A_Range.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TCS_CodeVita/src/com/company/Print_Primes_In_A_Range.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCS_CodeVita/src/com/company/calculate_pow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TCS_CodeVita/src/com/company/calculate_pow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TCS_CodeVita/src/com/company/sieve_of_Eratosthenes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TCS_CodeVita/src/com/company/sieve_of_Eratosthenes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/src/com/sagar/introduction/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/src/com/sagar/introduction/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../oop/src/com/sagar/introduction/WrapperExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/../oop/src/com/sagar/introduction/WrapperExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../placement/src/com/company/q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../placement/src/com/company/q1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../placement/src/com/company/q2.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="22hQJMdCsyBwCDI3Q8CtoFzC0ao" />
   <component name="ProjectView">
@@ -63,6 +236,16 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
@@ -74,5 +257,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7432c5f8-13db-4683-b812-c86dd5950041" name="Changes" comment="" />
+      <created>1677695372788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677695372788</updated>
+    </task>
+    <servers />
   </component>
 </project>
