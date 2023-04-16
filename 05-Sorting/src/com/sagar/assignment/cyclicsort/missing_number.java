@@ -2,7 +2,8 @@ package com.sagar.assignment.cyclicsort;
 
 public class missing_number {
     public static void main(String[] args) {
-        int[] nums = {3, 0, 1};                             // output:- 2
+//        int[] nums = {3, 0, 1};                             // output:- 2
+        int[] nums = {1, 4, 3};
         System.out.println(missingNumber(nums));
     }
     public static int missingNumber(int[] nums) {
