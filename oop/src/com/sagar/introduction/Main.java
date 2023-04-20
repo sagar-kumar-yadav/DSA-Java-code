@@ -60,7 +60,6 @@ public class Main {
         one.name = "tushar k";
         System.out.println(two.name);           // tushar k
 
-
     }
 }
 
