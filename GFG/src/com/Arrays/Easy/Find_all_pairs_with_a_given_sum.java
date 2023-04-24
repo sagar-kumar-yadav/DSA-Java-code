@@ -17,7 +17,22 @@ public class Find_all_pairs_with_a_given_sum {
         long X = 9;
         Find_all_pairs_with_a_given_sum obj = new Find_all_pairs_with_a_given_sum();
         pair[] ans  = obj.allPairs(A, B, 5, 5, X);
-        System.out.println(Arrays.toString(ans));
+//        Arrays.toString(ans);
+
+        if (ans.length == 0) {
+            System.out.println("-1");
+        }else {
+            StringBuilder output = new StringBuilder();
+            for (int i = 0; i < ans.length; i++) {
+                if (i < ans.length-1) {
+                    output.append(ans[i].first + " " + ans[i].second + ", ");
+                }else {
+                    output.append(ans[i].first + " " + ans[i].second);
+                }
+            }
+            System.out.println(output);
+        }
+
     }
     public pair[] allPairs( long A[], long B[], long N, long M, long X) {
         Arrays.sort(A) ;
